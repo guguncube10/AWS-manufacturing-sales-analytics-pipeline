@@ -23,8 +23,11 @@ The project leverages a rich dataset containing customer orders (transaction-lev
  
 ### **Dataset Components:**
 
-Orders Dataset: Customer orders with dates, total amounts (USD), and customer IDs - enables revenue trend analysis, purchasing behavior insights, and seasonal pattern identification https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=orders.csv
-Accounts Dataset: Customer account information including IDs, names, and sales rep assignments - provides customer demographics and engagement metrics https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=accounts.csv
-Regions Dataset: Geographical regions with names and IDs managed by sales representatives - supports regional performance analysis and comparative insights https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=region.csv
-Sales Representatives Dataset: Rep data including IDs, names, and assigned regions - enables account-to-region mapping and individual performance analysis https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=sales_reps.csv
+1) Orders Dataset: Customer orders with dates, total amounts (USD), and customer IDs - enables revenue trend analysis, purchasing behavior insights, and seasonal pattern identification https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=orders.csv
+   
+2) Accounts Dataset: Customer account information including IDs, names, and sales rep assignments - provides customer demographics and engagement metrics https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=accounts.csv
+   
+3) Regions Dataset: Geographical regions with names and IDs managed by sales representatives - supports regional performance analysis and comparative insights https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=region.csv
+   
+4) Sales Representatives Dataset: Rep data including IDs, names, and assigned regions - enables account-to-region mapping and individual performance analysis https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=sales_reps.csv
 
