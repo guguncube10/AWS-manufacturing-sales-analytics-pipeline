@@ -16,3 +16,15 @@ This project demonstrates the implementation of a modern, cloud-native data anal
 1) Automated sales performance dashboards
 2) Predictive models for sales forecasting with 85%+ accuracy
 3) Real-time insights into regional performance and customer behavior patterns
+
+## **Data Sources**
+
+The project leverages a rich dataset containing customer orders (transaction-level revenue data), account information (customer demographics and rep assignments), regional data (geographical performance analysis), and sales representative details (individual performance tracking) to create a complete view of sales operations and drive strategic decision-making.
+ 
+### **Dataset Components:**
+
+Orders Dataset: Customer orders with dates, total amounts (USD), and customer IDs - enables revenue trend analysis, purchasing behavior insights, and seasonal pattern identification https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=orders.csv
+Accounts Dataset: Customer account information including IDs, names, and sales rep assignments - provides customer demographics and engagement metrics https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=accounts.csv
+Regions Dataset: Geographical regions with names and IDs managed by sales representatives - supports regional performance analysis and comparative insights https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=region.csv
+Sales Representatives Dataset: Rep data including IDs, names, and assigned regions - enables account-to-region mapping and individual performance analysis https://www.kaggle.com/datasets/yaminh/sales-dataset-of-different-regions?select=sales_reps.csv
+
